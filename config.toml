@@ -1,0 +1,129 @@
+baseurl = "/"
+title = "Orient RCU"
+
+theme = "hugo-coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Orient RCU"
+    description = "Orient RCU website"
+    keywords = ""
+    info = "Social Enterprise in Health and Science"
+    avatarurl = "images/logo/logoORCU_update.png"
+    footercontent = "Enter a text here."
+    fixedbarContent = "Do you want to know me more private?→"
+    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+    enableFacebookShare = true
+    enableHatenaShare = true
+    enableLineShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = ["css/mystyle.css"]
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/naro143/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/naro143/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/naro143/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" 
+        title = "Orient RCU"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Orient RCU"
+            description = "Orient RCU website"
+            keywords = ""
+            info = "Social Enterprise in Health and Science"
+            avatarurl = "images/logo/logoORCU_update.png"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "Who we are"
+                weight = 1
+                url = "about"
+
+            [[languages.en.menu.main]]
+                name = "Blog"
+                weight = 3
+                url = "posts"
+
+            [[languages.en.menu.main]]
+                name = "What we do"
+                weight = 2
+                url = "projects"
+            [[languages.en.menu.main]]
+                name = "Contact us"
+                weight = 5
+                url = "contact"
+
+
+    [languages.vn]
+        languagecode = "vn"
+        languagename = "Tiếng Việt"
+        title = "ORIENT RCU"
+
+        [languages.vn.params]
+            author = "Đơn vị Nghiên cứu và Tư vấn Phương Đông"
+            info = "Doanh nghiệp Xã hội về Sức khoẻ và Khoa học Công nghệ"
+            description = "Sítio pessoal de João Ninguém"
+            keywords = ""
+            avatarurl = "images/logo/logoORCU_update_vn.png"
+
+        [languages.vn.menu]
+            [[languages.vn.menu.main]]
+                name = "Về chúng tôi"
+                weight = 1
+                url = "vn/about"
+            [[languages.vn.menu.main]]
+                name = "Blog"
+                weight = 3
+                url = "vn/posts"
+            [[languages.vn.menu.main]]
+                name = "Các hoạt động"
+                weight = 2
+                url = "vn/projects"
+            [[languages.vn.menu.main]]
+                name = "Liên hệ"
+                weight = 5
+                url = "vn/contact"
