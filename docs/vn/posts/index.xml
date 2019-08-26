@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ORIENT RCU</title>
-    <link>https://lampk.github.io/vn/posts/</link>
+    <link>https://lampk.github.io/orientrcutmp/vn/posts/</link>
     <description>Recent content in Posts on ORIENT RCU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vn</language>
     <lastBuildDate>Tue, 30 Jul 2019 17:22:00 +0700</lastBuildDate>
     
-	<atom:link href="https://lampk.github.io/vn/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lampk.github.io/orientrcutmp/vn/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Khảo sát nhu cầu của nhân viên y tế về nghiên cứu khoa học (Đào tạo và Hỗ trợ)</title>
-      <link>https://lampk.github.io/vn/posts/khaosat_nhucau/</link>
+      <link>https://lampk.github.io/orientrcutmp/vn/posts/khaosat_nhucau/</link>
       <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
       
-      <guid>https://lampk.github.io/vn/posts/khaosat_nhucau/</guid>
+      <guid>https://lampk.github.io/orientrcutmp/vn/posts/khaosat_nhucau/</guid>
       <description>Trong quá trình xây dựng Dự án Nâng cao năng lực nghiên cứu cho nhân viên y tế và bệnh viện tại Việt Nam, dự kiến phối hợp giữa Đơn vị nghiên cứu và tư vấn Phương Đông (Orient RCU), và Trung tâm Hỗ trợ dự án và Đổi mới sáng tạo - Đại học Y Dược Tp.HCM, chúng tôi thực hiện khảo sát này nhằm đánh giá nhu cầu của nhân viên y tế về nghiên cứu khoa học.</description>
     </item>
     
     <item>
       <title>CoderPortfolioの特徴</title>
-      <link>https://lampk.github.io/vn/posts/featuresofcoderportfolio/</link>
+      <link>https://lampk.github.io/orientrcutmp/vn/posts/featuresofcoderportfolio/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lampk.github.io/vn/posts/featuresofcoderportfolio/</guid>
+      <guid>https://lampk.github.io/orientrcutmp/vn/posts/featuresofcoderportfolio/</guid>
       <description>変更点 ShortCode &amp;ldquo;private content&amp;rdquo;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
 実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。
 リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
@@ -38,10 +38,10 @@ ShortCode &amp;ldquo;portfolio&amp;rdquo;を追加しました あなたの作�
     
     <item>
       <title>テーマデモ</title>
-      <link>https://lampk.github.io/vn/posts/theme-demo/</link>
+      <link>https://lampk.github.io/orientrcutmp/vn/posts/theme-demo/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lampk.github.io/vn/posts/theme-demo/</guid>
+      <guid>https://lampk.github.io/orientrcutmp/vn/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
