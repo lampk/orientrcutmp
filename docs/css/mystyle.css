@@ -1,8 +1,5 @@
 body {
   font-family: "Open Sans", Helvetica, sans-serif;
-}
-
-.content {
   margin-top: 5rem;
 }
 
@@ -15,3 +12,5 @@ body {
 .navigation a:hover, .navigation a:focus {
   text-decoration: none
 }
+
+a:before,a:after{position:absolute;bottom:-2px;content:"";display:inline-block;width:0;height:2px;background:#0066cc;transition:.5s}

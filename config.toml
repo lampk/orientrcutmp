@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://lampk.github.io/"
 title = "Orient RCU"
 
 theme = "hugo-coder-portfolio"
