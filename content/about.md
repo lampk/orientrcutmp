@@ -1,40 +1,26 @@
 +++
-title = "About Hugo"
+title = "About us"
 slug = "about"
-thumbnail = "images/tn.png"
 description = "about"
 +++
 
----------------------------
-This theme is created based on [hugo-coder](https://github.com/luizdepra/hugo-coder).  
-I made it possible to tell yourself more by my change.   
-Please see "FeaturesOfCoderPortfolio" in the post about the change.
-Regarding other demo contents, it is hugo-coder's thing.  
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/naro143/hugo-coder-portfolio/issues/new) or [ask me on Twitter](https://twitter.com/naro143).
-
----------------------------
-
-Hugo is a static site engine written in Go.
+Orient RCU was founded early 2019 by three founders, who are young but ambitious Vietnamese health researchers. Since then, the Unit has been operated by a team of young and enthusiastic people, who are passion for health research. We are receiving supports and advices from established international and Vietnamese researchers and leaders. To achieve our goals, we set up and maintain links with health researchers who are working at research organizations and health facilities in Vietnam and other countries.
 
 
-It makes use of a variety of open source projects including:
+{{ partial "home.html" . }}
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+## Our people
 
-## Setup
+## Team
 
-Some fun facts about [Hugo](http://gohugo.io/):
+## Board
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+## Advisors
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+## Affiliates
 
-Thanks for reading!
+## Alumni (add later) 
+
+## Our Partners (add later)
+

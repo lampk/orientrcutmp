@@ -1,8 +1,7 @@
 ---
 title: "Khảo sát nhu cầu của nhân viên y tế về nghiên cứu khoa học (Đào tạo và Hỗ trợ)"
 author: "Lê Thị Quỳnh Nhi"
-description: ""
-date: 2019-07-30T17:22:00+07:00
+date: "2019-07-30"
 tags: ["Khảo sát","Nhu cầu", "Nghiên cứu khoa học", "Nhân viên y tế"]
 draft: false
 ---

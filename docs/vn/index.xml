@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ORIENT RCU</title>
+    <title>Đơn vị Nghiên cứu và Tư vấn Phương Đông</title>
     <link>https://lampk.github.io/orientrcutmp/vn/</link>
-    <description>Recent content on ORIENT RCU</description>
+    <description>Recent content on Đơn vị Nghiên cứu và Tư vấn Phương Đông</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vn</language>
-    <lastBuildDate>Tue, 30 Jul 2019 17:22:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lampk.github.io/orientrcutmp/vn/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Khảo sát nhu cầu của nhân viên y tế về nghiên cứu khoa học (Đào tạo và Hỗ trợ)</title>
       <link>https://lampk.github.io/orientrcutmp/vn/posts/khaosat_nhucau/</link>
-      <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lampk.github.io/orientrcutmp/vn/posts/khaosat_nhucau/</guid>
       <description>Trong quá trình xây dựng Dự án Nâng cao năng lực nghiên cứu cho nhân viên y tế và bệnh viện tại Việt Nam, dự kiến phối hợp giữa Đơn vị nghiên cứu và tư vấn Phương Đông (Orient RCU), và Trung tâm Hỗ trợ dự án và Đổi mới sáng tạo - Đại học Y Dược Tp.HCM, chúng tôi thực hiện khảo sát này nhằm đánh giá nhu cầu của nhân viên y tế về nghiên cứu khoa học.</description>
@@ -71,12 +71,18 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     </item>
     
     <item>
-      <title>Sobre Hugo</title>
+      <title>Về chúng tôi</title>
       <link>https://lampk.github.io/orientrcutmp/vn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lampk.github.io/orientrcutmp/vn/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
+      <description> Chúng tôi là những nhà khoa học trẻ muốn đem nghiên cứu khoa học vào cuộc sống.
+Đội ngũ Home News Contact About
+Home Home is where the heart is..
+ News Some news this fine day!
+ Contact Get in touch, or swing by for a cup of coffee.
+ About Who we are and what we do.
+ Người sáng lập  Lê Thị Quỳnh Nhi Phùng Khánh Lâm Huỳnh Phạm Thu Hiền  Vận hành  Huỳnh Phạm Thu Hiền Phùng Khánh Lâm Lê Thị Tú Oanh Ong Phúc Thịnh  Cố vấn  Stephen Baker Nguyễn Văn Vĩnh Châu  Chuyên gia hợp tác  Phạm Nguyễn Quỳnh Anh Nguyễn Thanh Bình Vũ Thuỳ Dương Chung Thế Hào Nguyễn Thị Xuân Hoa  </description>
     </item>
     
   </channel>

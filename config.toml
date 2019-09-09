@@ -1,5 +1,5 @@
 baseurl = "https://lampk.github.io/orientrcutmp/"
-title = "Orient RCU"
+title = "Orient Research and Consultancy Unit"
 
 theme = "hugo-coder-portfolio"
 
@@ -12,7 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = ""
 
 [params]
     author = "Orient RCU"
@@ -20,9 +20,7 @@ disqusShortname = "yourdiscussshortname"
     keywords = ""
     info = "Social Enterprise in Health and Science"
     avatarurl = "images/logo/logoORCU_update.png"
-    footercontent = "Enter a text here."
-    fixedbarContent = "Do you want to know me more private?→"
-    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+    dateformat = "2006-01-02"
 
     hideCredits = false
     hideCopyright = false
@@ -33,8 +31,8 @@ disqusShortname = "yourdiscussshortname"
     # if you want add sns. please message!
     enableTwitterShare = true
     enableFacebookShare = true
-    enableHatenaShare = true
-    enableLineShare = true
+    enableHatenaShare = false
+    enableLineShare = false
 
     thumbnail = "images/tn.png"
 
@@ -50,23 +48,28 @@ disqusShortname = "yourdiscussshortname"
     langseparator = "|"
 
 [[params.social]]
-    name = "Github"
+    name = "Facebook"
+    icon = "fab fa-facebook"
     weight = 1
-    url = "https://github.com/naro143/"
+    url = "https://www.facebook.com/orient.rcu/"
 [[params.social]]
     name = "Twitter"
+    icon = "fab fa-twitter"
     weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://twitter.com/OrientRcu/"
 [[params.social]]
-    name = "LinkedIn"
+    name = "Github"
+    icon = "fab fa-github"
     weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://github.com/orientrcu/"
+
+
 
 [languages]
     [languages.en]
         languagecode = "en"
         languagename = "English" 
-        title = "Orient RCU"
+        title = "Orient Research and Consultancy Unit"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
@@ -75,6 +78,10 @@ disqusShortname = "yourdiscussshortname"
             keywords = ""
             info = "Social Enterprise in Health and Science"
             avatarurl = "images/logo/logoORCU_update.png"
+            by = "By"
+            footercontent = "All Rights Reserved by Orient Research and Consultancy Unit"
+            fixedbarContent = "Thank You! Please share if you like it"
+            fixedbarContentAfter = ""
 
         [languages.en.menu] # It is possible to change the menu too.
 
@@ -92,6 +99,12 @@ disqusShortname = "yourdiscussshortname"
                 name = "What we do"
                 weight = 2
                 url = "projects"
+                
+            [[languages.en.menu.main]]
+                name = "Health Research"
+                weight = 4
+                url = "healthresearch"
+                
             [[languages.en.menu.main]]
                 name = "Contact us"
                 weight = 5
@@ -101,7 +114,7 @@ disqusShortname = "yourdiscussshortname"
     [languages.vn]
         languagecode = "vn"
         languagename = "Tiếng Việt"
-        title = "ORIENT RCU"
+        title = "Đơn vị Nghiên cứu và Tư vấn Phương Đông"
 
         [languages.vn.params]
             author = "Đơn vị Nghiên cứu và Tư vấn Phương Đông"
@@ -109,6 +122,10 @@ disqusShortname = "yourdiscussshortname"
             description = "Sítio pessoal de João Ninguém"
             keywords = ""
             avatarurl = "images/logo/logoORCU_update_vn.png"
+            by = "Viết bởi"
+            footercontent = "Bản quyền thuộc Đơn vị Nghiên cứu và Tư vấn Phương Đông"
+            fixedbarContent = "Cám ơn bạn! Hãy chia sẻ nếu bạn thích nội dung này"
+            fixedbarContentAfter = ""
 
         [languages.vn.menu]
             [[languages.vn.menu.main]]
@@ -123,6 +140,10 @@ disqusShortname = "yourdiscussshortname"
                 name = "Các hoạt động"
                 weight = 2
                 url = "vn/projects"
+            [[languages.vn.menu.main]]
+                name = "Nghien cuu y hoc"
+                weight = 4
+                url = "vn/healthresearch"
             [[languages.vn.menu.main]]
                 name = "Liên hệ"
                 weight = 5

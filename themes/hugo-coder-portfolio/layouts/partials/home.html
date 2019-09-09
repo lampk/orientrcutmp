@@ -1,0 +1,78 @@
+<section class="container centered">
+  <div class="about">
+    {{ with .Site.Params.avatarurl }}
+      <div class="avatar"><img src="{{ . | absURL }}" alt="avatar"></div>
+    {{ end }}
+    <h1>{{ .Site.Params.author }}</h1>
+    <h2>{{ .Site.Params.info }}</h2>
+    {{ with .Site.Params.social }}
+    <ul>
+      {{ range sort .}}
+      <li><a href="{{ .url }}"><i class="{{ .icon }}" aria-hidden="true"></i></a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    
+  <div class="mission-vision-values">
+    
+  </div>
+  
+  <div class="who">
+    <h2>Who we are?</h2>
+    
+    Orient RCU was founded early 2019 by three founders, who are young but ambitious Vietnamese health researchers. Since then, the Unit has been operated by a team of young and enthusiastic people, who are passion for health research. We are receiving supports and advices from established international and Vietnamese researchers and leaders. To achieve our goals, we set up and maintain links with health researchers who are working at research organizations and health facilities in Vietnam and other countries.
+    
+    
+    
+  </div>
+  
+  <div class="what">
+    <h2>What we do?</h2>
+    
+    
+    
+  </div>
+  
+  <div class="why">
+    <h2>Why we do all these?</h2>
+    
+  </div>
+  
+  <div class="contact">
+    <h2>Contact us</h2>
+    
+  </div>
+  
+    
+    Slogan
+Mission
+
+Values
+
+We are "problem solver"
+
+Portfolio
+Output: 
+Number of project
+Number of publication
+Impact:
+Number of lives impacted
+Story
+Why
+Reasonales
+
+Who we are
+Short introduction
+
+Refer to WHO WE ARE page
+
+What we do
+Main field
+
+Refer to WHAT WE DO page
+
+Do you want to join us
+Refer ro CONTACT US page
+
+  </div>
+</section>

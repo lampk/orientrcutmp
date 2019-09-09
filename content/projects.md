@@ -1,16 +1,16 @@
 +++
-title = "Projects"
+title = "Our works"
 slug = "projects"
-thumbnail = "images/tn.png"
 description = "projects"
 +++
 
-## Portfolio Demo
+## How we do what we do
 
-{{% portfolio image="/images/tn.png" alt="Coder Portfolio" %}}
+## Project
 
-## Coder Portfolio
+## Service
 
-This theme is created based on hugo-coder.  
-I made it possible to tell yourself more by my change.
-{{% /portfolio %}}
+## Publication
+
+## Story
+

@@ -20,7 +20,6 @@
   <url>
     <loc>https://lampk.github.io/orientrcutmp/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
@@ -36,7 +35,6 @@
   <url>
     <loc>https://lampk.github.io/orientrcutmp/posts/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
@@ -67,7 +65,6 @@
   <url>
     <loc>https://lampk.github.io/orientrcutmp/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
@@ -86,27 +83,33 @@
   </url>
   
   <url>
+    <loc>https://lampk.github.io/orientrcutmp/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lampk.github.io/orientrcutmp/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lampk.github.io/orientrcutmp/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vn"
@@ -117,18 +120,6 @@
                 hreflang="en"
                 href="https://lampk.github.io/orientrcutmp/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lampk.github.io/orientrcutmp/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lampk.github.io/orientrcutmp/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -144,7 +135,11 @@
   <url>
     <loc>https://lampk.github.io/orientrcutmp/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lampk.github.io/orientrcutmp/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,50 +148,43 @@
   </url>
   
   <url>
-    <loc>https://lampk.github.io/orientrcutmp/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lampk.github.io/orientrcutmp/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lampk.github.io/orientrcutmp/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lampk.github.io/orientrcutmp/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lampk.github.io/orientrcutmp/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lampk.github.io/orientrcutmp/material/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -225,6 +213,10 @@
                 hreflang="en"
                 href="https://lampk.github.io/orientrcutmp/contact/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://lampk.github.io/orientrcutmp/healthresearch/</loc>
   </url>
   
   <url>

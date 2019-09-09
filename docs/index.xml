@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Orient RCU</title>
+    <title>Orient Research and Consultancy Unit</title>
     <link>https://lampk.github.io/orientrcutmp/</link>
-    <description>Recent content on Orient RCU</description>
+    <description>Recent content on Orient Research and Consultancy Unit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
@@ -97,17 +97,21 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title></title>
+      <link>https://lampk.github.io/orientrcutmp/material/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lampk.github.io/orientrcutmp/material/</guid>
+      <description>GRP: https://byglearning.co.uk/mrcrsc-lms/course/index.php?categoryid=1</description>
+    </item>
+    
+    <item>
+      <title>About us</title>
       <link>https://lampk.github.io/orientrcutmp/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lampk.github.io/orientrcutmp/about/</guid>
-      <description>This theme is created based on hugo-coder.
-I made it possible to tell yourself more by my change.
-Please see &amp;ldquo;FeaturesOfCoderPortfolio&amp;rdquo; in the post about the change. Regarding other demo contents, it is hugo-coder&amp;rsquo;s thing.
-Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
-Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:</description>
+      <description>Orient RCU was founded early 2019 by three founders, who are young but ambitious Vietnamese health researchers. Since then, the Unit has been operated by a team of young and enthusiastic people, who are passion for health research. We are receiving supports and advices from established international and Vietnamese researchers and leaders. To achieve our goals, we set up and maintain links with health researchers who are working at research organizations and health facilities in Vietnam and other countries.</description>
     </item>
     
     <item>
@@ -116,18 +120,30 @@ It makes use of a variety of open source projects including:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lampk.github.io/orientrcutmp/contact/</guid>
-      <description>Want Contact? Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Health Research</title>
+      <link>https://lampk.github.io/orientrcutmp/healthresearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lampk.github.io/orientrcutmp/healthresearch/</guid>
+      <description>Definitions of health research  Commission on Health Research for Development (1990) Health Research: Essential Link to Equity in Development. English
+ Institute of Medicine (1996) Global Health in Transition: A Synthesis. English
+ Institute of Medicine (2009) Beyond the HIPAA Privacy Rule: Enhancing Privacy, Improving Health Through Research. English
+ HHMI (2009) Scientific Foundations for Future Physicians. English
+ WHO research. Website
+ WHO/TDR. RESEARCH CAPACITY STRENGTHENING AND KNOWLEDGE MANAGEMENT STRATEGY.</description>
+    </item>
+    
+    <item>
+      <title>Our works</title>
       <link>https://lampk.github.io/orientrcutmp/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lampk.github.io/orientrcutmp/projects/</guid>
-      <description> Portfolio Demo  Coder Portfolio This theme is created based on hugo-coder.
-I made it possible to tell yourself more by my change.
-   </description>
+      <description> How we do what we do Project Service Publication Story </description>
     </item>
     
   </channel>
